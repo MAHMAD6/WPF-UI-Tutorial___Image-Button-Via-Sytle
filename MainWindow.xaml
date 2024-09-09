@@ -48,7 +48,7 @@
                                     Margin="20,0,0,0"
                                     HorizontalAlignment="Left">
                                     <Rectangle.Fill>
-                                        <ImageBrush ImageSource="C:\Users\cheeeesee\source\repos\ImageButton\Resources\Youtube Icon.png" />
+                                        <ImageBrush ImageSource="/Resources/Youtube Icon.png" />
                                     </Rectangle.Fill>
                                 </Rectangle>
                                 <TextBlock
